@@ -1,0 +1,1 @@
+export { createPinia, defineStore } from './pinia';
